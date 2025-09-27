@@ -1,14 +1,14 @@
 {
-    "name": "Template Plugin",
-    "description": "A plugin for use as a template.",
+    "name": "SecurityLock",
+    "description": "Lock Discord behind a passcode or password to prevent snooping.",
     "authors": [
         {
-            "name": "You!",
-            "id": "YOUR_ID_HERE"
+            "name": "Kyri / 999",
+            "id": "1023772274446323713"
         }
     ],
     "main": "src/index.ts",
     "vendetta": {
-        "icon": "ic_badge_staff"
+        "icon": "ic_lock"
     }
 }
