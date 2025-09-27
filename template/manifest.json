@@ -1,0 +1,1 @@
+{"name":"SecurityLock","description":"Lock Discord behind a passcode or password to prevent snooping.","authors":[{"name":"Kyri / 999","id":"1023772274446323713"}],"main":"index.js","vendetta":{"icon":"ic_lock"},"hash":"89c41894ac673c8e5d2091c8d592f991ebaa78bdac4543d1c3aa9d3bf5560d1e"}
