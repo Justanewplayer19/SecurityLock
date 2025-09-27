@@ -1,4 +1,8 @@
-# Vendetta Plugins Template
+# SecurityLock Plugin
+## What this supports.
+- Direct Messages (DMS)
+- Selected Servers
+- More Coming Soon!
 This repo contains a template for creating [Vendetta](https://github.com/vendetta-mod/Vendetta) plugins.
 
 # How to install?
